@@ -1,5 +1,7 @@
 # portfolio-1overn-vs-markowitz
 
+> out-of-sample 1/n vs sample and shrinkage-covariance mean-variance portfolios on ken french equity returns, numpy and scikit-learn
+
 Status: scaffolded, not yet built.
 
 ## Claim under test
