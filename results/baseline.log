@@ -1,0 +1,4 @@
+25 portfolios, 1/N: 1140 out-of-sample months, 193107-202606, window=60
+25 portfolios, 1/N: annualized mean=0.1474 vol=0.2351 sharpe=0.6270
+49 industries, 1/N: 624 out-of-sample months, 197407-202606, window=60
+49 industries, 1/N: annualized mean=0.1357 vol=0.1690 sharpe=0.8029
