@@ -1,0 +1,24 @@
+25 portfolios, window=60, 1/N: 1140 out-of-sample months, 193107-202606, mean=0.1474 vol=0.2351 sharpe=0.6270
+25 portfolios, window=60, sample min-variance: 1140 out-of-sample months, 193107-202606, mean=0.1386 vol=0.1817 sharpe=0.7631
+25 portfolios, window=60, tangency: 1140 out-of-sample months, 193107-202606, mean=1.1973 vol=11.6742 sharpe=0.1026
+25 portfolios, window=60, shrinkage min-variance: 1140 out-of-sample months, 193107-202606, mean=0.1268 vol=0.1546 sharpe=0.8205
+25 portfolios, window=120, 1/N: 1080 out-of-sample months, 193607-202606, mean=0.1383 vol=0.1922 sharpe=0.7195
+25 portfolios, window=120, sample min-variance: 1080 out-of-sample months, 193607-202606, mean=0.1319 vol=0.1402 sharpe=0.9412
+25 portfolios, window=120, tangency: 1080 out-of-sample months, 193607-202606, mean=0.4558 vol=3.2676 sharpe=0.1395
+25 portfolios, window=120, shrinkage min-variance: 1080 out-of-sample months, 193607-202606, mean=0.1287 vol=0.1304 sharpe=0.9872
+25 portfolios, window=240, 1/N: 960 out-of-sample months, 194607-202606, mean=0.1323 vol=0.1720 sharpe=0.7690
+25 portfolios, window=240, sample min-variance: 960 out-of-sample months, 194607-202606, mean=0.1435 vol=0.1293 sharpe=1.1093
+25 portfolios, window=240, tangency: 960 out-of-sample months, 194607-202606, mean=0.2018 vol=0.2875 sharpe=0.7020
+25 portfolios, window=240, shrinkage min-variance: 960 out-of-sample months, 194607-202606, mean=0.1375 vol=0.1263 sharpe=1.0885
+49 industries, window=60, 1/N: 624 out-of-sample months, 197407-202606, mean=0.1357 vol=0.1690 sharpe=0.8029
+49 industries, window=60, sample min-variance: 624 out-of-sample months, 197407-202606, mean=0.0586 vol=0.2368 sharpe=0.2473
+49 industries, window=60, tangency: 624 out-of-sample months, 197407-202606, mean=-0.1874 vol=4.7910 sharpe=-0.0391
+49 industries, window=60, shrinkage min-variance: 624 out-of-sample months, 197407-202606, mean=0.1008 vol=0.1253 sharpe=0.8051
+49 industries, window=120, 1/N: 564 out-of-sample months, 197907-202606, mean=0.1333 vol=0.1647 sharpe=0.8092
+49 industries, window=120, sample min-variance: 564 out-of-sample months, 197907-202606, mean=0.1102 vol=0.1416 sharpe=0.7781
+49 industries, window=120, tangency: 564 out-of-sample months, 197907-202606, mean=0.1736 vol=0.3924 sharpe=0.4424
+49 industries, window=120, shrinkage min-variance: 564 out-of-sample months, 197907-202606, mean=0.1125 vol=0.1216 sharpe=0.9249
+49 industries, window=240, 1/N: 444 out-of-sample months, 198907-202606, mean=0.1203 vol=0.1590 sharpe=0.7568
+49 industries, window=240, sample min-variance: 444 out-of-sample months, 198907-202606, mean=0.0805 vol=0.1245 sharpe=0.6471
+49 industries, window=240, tangency: 444 out-of-sample months, 198907-202606, mean=0.0946 vol=0.2403 sharpe=0.3939
+49 industries, window=240, shrinkage min-variance: 444 out-of-sample months, 198907-202606, mean=0.0870 vol=0.1183 sharpe=0.7356
